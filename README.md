@@ -19,5 +19,3 @@ A professional Sales KPI Dashboard designed to visualize business performance me
 - Vite
 - JavaScript
 
-
-
