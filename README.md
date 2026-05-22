@@ -18,3 +18,15 @@ A professional Sales KPI Dashboard designed to visualize business performance me
 - Recharts
 - Vite
 - JavaScript
+
+sales-dashboard/
+│
+├── public/
+├── src/
+│   ├── components/
+│   ├── pages/
+│   ├── charts/
+│   └── App.jsx
+│
+├── package.json
+└── README.md
